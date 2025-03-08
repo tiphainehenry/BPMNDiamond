@@ -1,0 +1,506 @@
+{
+  "outputGen": {
+    "pName": "BulkBuyer_20241031_120036",
+    "activities": [
+      {
+        "id": 0,
+        "nodeType": 0,
+        "xmlID": "Activity_178wke6",
+        "name": "",
+        "lane": "Supplier",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 1,
+        "nodeType": 0,
+        "xmlID": "Activity_1mrdk79",
+        "name": "",
+        "lane": "Supplier",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 2,
+        "nodeType": 0,
+        "xmlID": "Activity_0ovq3ir",
+        "name": "",
+        "lane": "Manufactturer",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 3,
+        "nodeType": 0,
+        "xmlID": "Activity_0vlpyy8",
+        "name": "",
+        "lane": "Manufactturer",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 4,
+        "nodeType": 0,
+        "xmlID": "Event_0pcb7d6",
+        "name": "",
+        "lane": "Supplier",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 5,
+        "nodeType": 0,
+        "xmlID": "Event_0iwx1uw",
+        "name": "",
+        "lane": "Middleman",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 6,
+        "nodeType": 0,
+        "xmlID": "Event_1q8uj2b",
+        "name": "",
+        "lane": "Manufactturer",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 7,
+        "nodeType": 0,
+        "xmlID": "Event_0jqvh7b",
+        "name": "",
+        "lane": "SpecialCarrier",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 8,
+        "nodeType": 0,
+        "xmlID": "StartEvent_1lkfg28",
+        "name": "",
+        "lane": "BulkBuyer",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 9,
+        "nodeType": 0,
+        "xmlID": "Event_0n62fcs",
+        "name": "",
+        "lane": "Supplier",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 10,
+        "nodeType": 0,
+        "xmlID": "Event_1jqivmy",
+        "name": "",
+        "lane": "Middleman",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 11,
+        "nodeType": 0,
+        "xmlID": "Event_13wma2m",
+        "name": "",
+        "lane": "Manufactturer",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 12,
+        "nodeType": 0,
+        "xmlID": "Event_17eoxje",
+        "name": "",
+        "lane": "Manufactturer",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 13,
+        "nodeType": 0,
+        "xmlID": "Event_0fot2yq",
+        "name": "",
+        "lane": "SpecialCarrier",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 14,
+        "nodeType": 0,
+        "xmlID": "Event_06rrlqx",
+        "name": "",
+        "lane": "BulkBuyer",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 15,
+        "nodeType": 0,
+        "xmlID": "Event_1prk2c6",
+        "name": "",
+        "lane": "Supplier",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 16,
+        "nodeType": 0,
+        "xmlID": "Event_17exiyo",
+        "name": "",
+        "lane": "Manufactturer",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 17,
+        "nodeType": 0,
+        "xmlID": "Event_0nt2tgj",
+        "name": "",
+        "lane": "SpecialCarrier",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 18,
+        "nodeType": 0,
+        "xmlID": "Event_16mfcnh",
+        "name": "",
+        "lane": "SpecialCarrier",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 19,
+        "nodeType": 0,
+        "xmlID": "Event_0gfzx5o",
+        "name": "",
+        "lane": "BulkBuyer",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 20,
+        "nodeType": 0,
+        "xmlID": "Event_041xu64",
+        "name": "",
+        "lane": "BulkBuyer",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 21,
+        "nodeType": 0,
+        "xmlID": "Event_13ln24e",
+        "name": "",
+        "lane": "Supplier",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 22,
+        "nodeType": 0,
+        "xmlID": "Event_0djujna",
+        "name": "",
+        "lane": "Middleman",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 23,
+        "nodeType": 0,
+        "xmlID": "Event_06fjnih",
+        "name": "",
+        "lane": "Manufactturer",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 24,
+        "nodeType": 0,
+        "xmlID": "Event_18n5vxd",
+        "name": "",
+        "lane": "SpecialCarrier",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 25,
+        "nodeType": 0,
+        "xmlID": "Event_0ozw3la",
+        "name": "",
+        "lane": "BulkBuyer",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      }
+    ],
+    "_tabChildrenOptim": [
+      [
+        "Event_1prk2c6"
+      ],
+      [
+        "Activity_178wke6"
+      ],
+      [
+        "Event_06fjnih"
+      ],
+      [
+        "Event_17eoxje"
+      ],
+      [
+        "Activity_1mrdk79"
+      ],
+      [
+        "Event_1jqivmy"
+      ],
+      [
+        "Activity_0vlpyy8"
+      ],
+      [
+        "Event_0fot2yq"
+      ],
+      [
+        "Event_06rrlqx"
+      ],
+      [
+        "Event_13ln24e"
+      ],
+      [
+        "Event_0djujna"
+      ],
+      [
+        "Activity_0ovq3ir"
+      ],
+      [
+        "Event_17exiyo"
+      ],
+      [
+        "Event_0nt2tgj"
+      ],
+      [
+        "Event_041xu64"
+      ],
+      [
+        "Event_0n62fcs"
+      ],
+      [
+        "Event_13wma2m"
+      ],
+      [
+        "Event_16mfcnh"
+      ],
+      [
+        "Event_18n5vxd"
+      ],
+      [
+        "Event_0ozw3la"
+      ],
+      [
+        "Event_0gfzx5o"
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "_tabParentOptim": [
+      [
+        "Activity_1mrdk79"
+      ],
+      [
+        "Event_0pcb7d6"
+      ],
+      [
+        "Event_13wma2m"
+      ],
+      [
+        "Event_1q8uj2b"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "Event_1prk2c6"
+      ],
+      [
+        "Event_0iwx1uw"
+      ],
+      [
+        "Event_17exiyo"
+      ],
+      [
+        "Activity_0vlpyy8"
+      ],
+      [
+        "Event_0jqvh7b"
+      ],
+      [
+        "StartEvent_1lkfg28"
+      ],
+      [
+        "Activity_178wke6"
+      ],
+      [
+        "Event_17eoxje"
+      ],
+      [
+        "Event_0fot2yq"
+      ],
+      [
+        "Event_0nt2tgj"
+      ],
+      [
+        "Event_041xu64"
+      ],
+      [
+        "Event_06rrlqx"
+      ],
+      [
+        "Event_0n62fcs"
+      ],
+      [
+        "Event_1jqivmy"
+      ],
+      [
+        "Activity_0ovq3ir"
+      ],
+      [
+        "Event_16mfcnh"
+      ],
+      [
+        "Event_0gfzx5o"
+      ]
+    ],
+    "_msgInOptim": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "Event_1jqivmy"
+      ],
+      [
+        "Event_17eoxje"
+      ],
+      [
+        "Event_06rrlqx"
+      ],
+      [
+        "Event_0djujna"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "Event_0fot2yq"
+      ],
+      [
+        "Event_18n5vxd"
+      ],
+      [
+        "Event_0n62fcs"
+      ],
+      [
+        "Event_13ln24e"
+      ],
+      [
+        "Event_06fjnih"
+      ],
+      [
+        "Event_13wma2m"
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "_msgOutOptim": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "Event_0nt2tgj"
+      ],
+      [
+        "Event_0pcb7d6"
+      ],
+      [
+        "Event_041xu64"
+      ],
+      [
+        "Event_0iwx1uw"
+      ],
+      [
+        "Event_1prk2c6"
+      ],
+      [
+        "Event_1q8uj2b"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "Event_16mfcnh"
+      ],
+      [
+        "Event_0jqvh7b"
+      ],
+      [
+        "Event_0gfzx5o"
+      ],
+      [
+        "Event_17exiyo"
+      ],
+      []
+    ],
+    "_keyReplay": [],
+    "_valueReplay": []
+  },
+  "errors": ""
+}

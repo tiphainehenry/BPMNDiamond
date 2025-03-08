@@ -1,0 +1,93 @@
+{
+    "model_names_mapping": 
+        [
+            {
+                "modelName": "A", 
+                "root_name":"OrderToCashV1"
+            },
+            {
+                "modelName":"B",
+                "root_name":"BulkBuyer"
+            },
+            {
+                "modelName": "C",
+                "root_name":"LCA"
+            },
+            {
+                "modelName": "D",
+                "root_name":"SecuRoutiere"
+            },
+            {
+                "modelName": "E",
+                "root_name":"Certification"
+            },            
+            {
+                "modelName": "F",
+                "root_name":"Circee"
+            },            
+            {
+                "modelName": "G",
+                "root_name":"SeadmeteGarantii"
+            },
+            {
+                "modelName": "H",
+                "root_name":"CandidatureProcessing"
+            },
+            {
+                "modelName": "I",
+                "root_name":"Zad2Kolab"
+            },
+            {
+                "modelName": "J",
+                "root_name":"SPARKLogistics"
+            }
+            
+        ],
+    "facet_names": [
+        "ExecLogicFacet", 
+        "ModelFactoryFacet", 
+        "Diamond", 
+        "DiamondCut", 
+        "DiamondCutFacet", 
+        "DiamondInit", 
+        "GettersFacet", 
+        "OwnershipFacet"
+    ],
+    "bpmn_facet_names": [
+        "ExecLogicFacet", 
+        "ModelFactoryFacet", 
+        "GettersFacet"
+    ],
+    "colors": [
+        "#1f77b4",
+        "#ff7f0e",
+        "#2ca02c",
+        "#d62728",
+        "#9467bd",
+        "#9467bd"
+
+    ],
+    "plot_output_paths": {
+        "deploy_cost": "results/plots/Cost_Deploy.png",
+        "invoke_cost": "results/plots/Cost_Invoke.png",
+        "multi_instance_cost": "results/plots/Cost_MultiInstance.png",
+        "multi_process_cost": "results/plots/Cost_MultiProcessus.png"
+    }, 
+    "data_output_paths": {
+        "gas_mono": "results/processed_gas_monolithic.xlsx",
+        "gas_diamond_facets":"results/processed_gas_diamond_facets.xlsx",
+        "gas_diamond_methods": "results/processed_gas_diamond_methods.xlsx",
+        "bpmn_element_counts": "results/bpmn_element_counts.xlsx", 
+        "gas_multi":"results/processed_gas_multi.xlsx",
+        "multi_process_cost2":"results/processed_gas_multi2.xlsx"
+
+    }, 
+    "XML_files": "../data/xml/",
+    "gas_report_root": "../data/Json/gasReport_",
+    "saveDataframesToExcel": 1, 
+    "aggregate_facets_choice":{
+        "aggregate_all_facets": false,
+        "aggregate_only_diamondcore":true    
+    },
+    "iteration_multi_models":10
+}

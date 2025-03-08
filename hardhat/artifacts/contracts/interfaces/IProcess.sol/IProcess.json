@@ -1,0 +1,122 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IProcess",
+  "sourceName": "contracts/interfaces/IProcess.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "_id",
+          "type": "uint256"
+        },
+        {
+          "internalType": "enum LibApp.NodeType",
+          "name": "_type",
+          "type": "uint8"
+        },
+        {
+          "internalType": "string",
+          "name": "_xmlID",
+          "type": "string"
+        },
+        {
+          "internalType": "string",
+          "name": "_name",
+          "type": "string"
+        },
+        {
+          "internalType": "string",
+          "name": "_lane",
+          "type": "string"
+        },
+        {
+          "internalType": "string",
+          "name": "_data_in",
+          "type": "string"
+        },
+        {
+          "internalType": "string",
+          "name": "_data_out",
+          "type": "string"
+        },
+        {
+          "internalType": "string",
+          "name": "_timestamp",
+          "type": "string"
+        },
+        {
+          "internalType": "string[]",
+          "name": "_child",
+          "type": "string[]"
+        },
+        {
+          "internalType": "string[]",
+          "name": "_parent",
+          "type": "string[]"
+        },
+        {
+          "internalType": "string[]",
+          "name": "_msgIn",
+          "type": "string[]"
+        },
+        {
+          "internalType": "string[]",
+          "name": "_msgOut",
+          "type": "string[]"
+        }
+      ],
+      "name": "addActivity",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "string",
+          "name": "_name",
+          "type": "string"
+        },
+        {
+          "internalType": "uint256",
+          "name": "_activityIdsLength",
+          "type": "uint256"
+        },
+        {
+          "internalType": "uint256[]",
+          "name": "_included",
+          "type": "uint256[]"
+        },
+        {
+          "internalType": "uint256[]",
+          "name": "_pending",
+          "type": "uint256[]"
+        },
+        {
+          "internalType": "uint256[]",
+          "name": "_executed",
+          "type": "uint256[]"
+        },
+        {
+          "internalType": "string[]",
+          "name": "_keyReplaySegment",
+          "type": "string[]"
+        },
+        {
+          "internalType": "string[][]",
+          "name": "_valueReplaySegment",
+          "type": "string[][]"
+        }
+      ],
+      "name": "newInstance",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

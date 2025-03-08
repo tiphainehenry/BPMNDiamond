@@ -1,0 +1,426 @@
+{
+  "outputGen": {
+    "pName": "Order2cash_20241104_172131",
+    "activities": [
+      {
+        "id": 0,
+        "nodeType": 4,
+        "xmlID": "Task_1m74ph5",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 1,
+        "nodeType": 4,
+        "xmlID": "Task_0f51usj",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 2,
+        "nodeType": 4,
+        "xmlID": "Task_0qrh3zy",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 3,
+        "nodeType": 4,
+        "xmlID": "Task_1f4h4hb",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 4,
+        "nodeType": 4,
+        "xmlID": "Task_02gankr",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 5,
+        "nodeType": 4,
+        "xmlID": "Task_1nwck44",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 6,
+        "nodeType": 4,
+        "xmlID": "Task_0gtnlnt",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 7,
+        "nodeType": 4,
+        "xmlID": "Task_12umbt1",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 8,
+        "nodeType": 0,
+        "xmlID": "StartEvent_1",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 9,
+        "nodeType": 3,
+        "xmlID": "IntermediateThrowEvent_1yxaeyf",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 10,
+        "nodeType": 1,
+        "xmlID": "EndEvent_0oqmmqi",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 11,
+        "nodeType": 1,
+        "xmlID": "EndEvent_107iq79",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 12,
+        "nodeType": 1,
+        "xmlID": "EndEvent_1go98zd",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 13,
+        "nodeType": 1,
+        "xmlID": "EndEvent_1wjl8od",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 14,
+        "nodeType": 5,
+        "xmlID": "ExclusiveGateway_09h0u2t",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 15,
+        "nodeType": 5,
+        "xmlID": "ExclusiveGateway_0ugfgz4",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 16,
+        "nodeType": 5,
+        "xmlID": "ExclusiveGateway_1sn4lkk",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 17,
+        "nodeType": 5,
+        "xmlID": "ExclusiveGateway_12aft79",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 18,
+        "nodeType": 5,
+        "xmlID": "ExclusiveGateway_082enas",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 19,
+        "nodeType": 5,
+        "xmlID": "ExclusiveGateway_1oalxxn",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 20,
+        "nodeType": 4,
+        "xmlID": "Condition_nceFlow_1ekg0wz",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 21,
+        "nodeType": 4,
+        "xmlID": "Condition_nceFlow_0nrm4ol",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 22,
+        "nodeType": 4,
+        "xmlID": "Condition_nceFlow_0lvjq72",
+        "name": "",
+        "lane": "Order to Cash",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      }
+    ],
+    "_tabChildrenOptim": [
+      [
+        "Task_1nwck44"
+      ],
+      [
+        "ExclusiveGateway_0ugfgz4"
+      ],
+      [
+        "ExclusiveGateway_1sn4lkk"
+      ],
+      [
+        "ExclusiveGateway_12aft79"
+      ],
+      [
+        "ExclusiveGateway_09h0u2t"
+      ],
+      [
+        "ExclusiveGateway_1oalxxn"
+      ],
+      [
+        "ExclusiveGateway_1sn4lkk"
+      ],
+      [
+        "ExclusiveGateway_09h0u2t"
+      ],
+      [
+        "Task_1m74ph5"
+      ],
+      [
+        "EndEvent_1go98zd"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "Task_1f4h4hb"
+      ],
+      [
+        "Task_0qrh3zy",
+        "Condition_nceFlow_0lvjq72"
+      ],
+      [
+        "Task_0f51usj"
+      ],
+      [
+        "Task_02gankr",
+        "Condition_nceFlow_0nrm4ol"
+      ],
+      [
+        "Task_12umbt1",
+        "Task_0gtnlnt"
+      ],
+      [
+        "EndEvent_1wjl8od",
+        "Condition_nceFlow_1ekg0wz"
+      ],
+      [
+        "Task_0brgwbb"
+      ],
+      [
+        "EndEvent_107iq79"
+      ],
+      [
+        "EndEvent_0oqmmqi"
+      ]
+    ],
+    "_tabParentOptim": [
+      [
+        "StartEvent_1"
+      ],
+      [
+        "ExclusiveGateway_1sn4lkk"
+      ],
+      [
+        "ExclusiveGateway_0ugfgz4"
+      ],
+      [
+        "ExclusiveGateway_09h0u2t"
+      ],
+      [
+        "ExclusiveGateway_12aft79"
+      ],
+      [
+        "Task_1m74ph5"
+      ],
+      [
+        "ExclusiveGateway_082enas"
+      ],
+      [
+        "ExclusiveGateway_082enas"
+      ],
+      [],
+      [],
+      [
+        "Condition_nceFlow_0lvjq72"
+      ],
+      [
+        "Condition_nceFlow_0nrm4ol"
+      ],
+      [
+        "IntermediateThrowEvent_1yxaeyf"
+      ],
+      [
+        "ExclusiveGateway_1oalxxn"
+      ],
+      [
+        "Task_12umbt1",
+        "Task_02gankr"
+      ],
+      [
+        "Task_0f51usj"
+      ],
+      [
+        "Task_0gtnlnt",
+        "Task_0qrh3zy"
+      ],
+      [
+        "Task_1f4h4hb"
+      ],
+      [
+        "Task_0brgwbb"
+      ],
+      [
+        "Task_1nwck44"
+      ],
+      [
+        "ExclusiveGateway_1oalxxn"
+      ],
+      [
+        "ExclusiveGateway_12aft79"
+      ],
+      [
+        "ExclusiveGateway_0ugfgz4"
+      ]
+    ],
+    "_msgInOptim": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "_msgOutOptim": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "_keyReplay": [],
+    "_valueReplay": []
+  },
+  "errors": ""
+}

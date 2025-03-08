@@ -1,0 +1,306 @@
+{
+  "outputGen": {
+    "pName": "zad2kolab_20241101_105653",
+    "activities": [
+      {
+        "id": 0,
+        "nodeType": 4,
+        "xmlID": "Activity_1srhafj",
+        "name": "",
+        "lane": "Student",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 1,
+        "nodeType": 4,
+        "xmlID": "Activity_0ab2fst",
+        "name": "",
+        "lane": "Sluzbenik",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 2,
+        "nodeType": 4,
+        "xmlID": "Activity_1lihfh5",
+        "name": "",
+        "lane": "Sluzbenik",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 3,
+        "nodeType": 4,
+        "xmlID": "Activity_014h9o1",
+        "name": "",
+        "lane": "Sluzbenik",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 4,
+        "nodeType": 0,
+        "xmlID": "Event_07pjzzj",
+        "name": "",
+        "lane": "Student",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 5,
+        "nodeType": 0,
+        "xmlID": "Event_1ailhr5",
+        "name": "",
+        "lane": "Sluzbenik",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 6,
+        "nodeType": 3,
+        "xmlID": "Event_0aonam9",
+        "name": "",
+        "lane": "Student",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 7,
+        "nodeType": 3,
+        "xmlID": "Event_1l9b7n8",
+        "name": "",
+        "lane": "Sluzbenik",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 8,
+        "nodeType": 3,
+        "xmlID": "Event_0tiesg4",
+        "name": "",
+        "lane": "Student",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 9,
+        "nodeType": 1,
+        "xmlID": "Event_16uro6j",
+        "name": "",
+        "lane": "Student",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 10,
+        "nodeType": 1,
+        "xmlID": "Event_0e1awo3",
+        "name": "",
+        "lane": "Student",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 11,
+        "nodeType": 1,
+        "xmlID": "Event_0l93dpn",
+        "name": "",
+        "lane": "Sluzbenik",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 12,
+        "nodeType": 5,
+        "xmlID": "Gateway_0baiti1",
+        "name": "",
+        "lane": "Student",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 13,
+        "nodeType": 5,
+        "xmlID": "Gateway_1xp1d08",
+        "name": "",
+        "lane": "Sluzbenik",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 14,
+        "nodeType": 6,
+        "xmlID": "Gateway_0x8dzy1",
+        "name": "",
+        "lane": "Sluzbenik",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      },
+      {
+        "id": 15,
+        "nodeType": 6,
+        "xmlID": "Gateway_08u5ndn",
+        "name": "",
+        "lane": "Sluzbenik",
+        "dataIn": "",
+        "dataOut": "",
+        "timestamp": ""
+      }
+    ],
+    "_tabChildrenOptim": [
+      [
+        "Event_0aonam9"
+      ],
+      [
+        "Gateway_1xp1d08"
+      ],
+      [
+        "Gateway_0x8dzy1"
+      ],
+      [
+        "Gateway_0x8dzy1"
+      ],
+      [
+        "Activity_1srhafj"
+      ],
+      [
+        "Gateway_08u5ndn"
+      ],
+      [
+        "Gateway_0baiti1"
+      ],
+      [],
+      [
+        "Event_16uro6j"
+      ],
+      [],
+      [],
+      [],
+      [
+        "Event_0tiesg4",
+        "Event_0e1awo3"
+      ],
+      [
+        "Event_1l9b7n8",
+        "Event_0l93dpn"
+      ],
+      [
+        "Activity_0ab2fst"
+      ],
+      [
+        "Activity_014h9o1",
+        "Activity_1lihfh5"
+      ]
+    ],
+    "_tabParentOptim": [
+      [
+        "Event_07pjzzj"
+      ],
+      [
+        "Gateway_0x8dzy1"
+      ],
+      [
+        "Gateway_08u5ndn"
+      ],
+      [
+        "Gateway_08u5ndn"
+      ],
+      [],
+      [],
+      [
+        "Activity_1srhafj"
+      ],
+      [
+        "Gateway_1xp1d08"
+      ],
+      [
+        "Gateway_0baiti1"
+      ],
+      [
+        "Event_0tiesg4"
+      ],
+      [
+        "Gateway_0baiti1"
+      ],
+      [
+        "Gateway_1xp1d08"
+      ],
+      [
+        "Event_0aonam9"
+      ],
+      [
+        "Activity_0ab2fst"
+      ],
+      [
+        "Activity_014h9o1",
+        "Activity_1lihfh5"
+      ],
+      [
+        "Event_1ailhr5"
+      ]
+    ],
+    "_msgInOptim": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "Event_0aonam9"
+      ],
+      [],
+      [],
+      [
+        "Event_1l9b7n8"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "_msgOutOptim": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        "Event_1ailhr5"
+      ],
+      [
+        "Event_0tiesg4"
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "_keyReplay": [],
+    "_valueReplay": []
+  },
+  "errors": ""
+}
