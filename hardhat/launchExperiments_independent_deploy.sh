@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #scenario_names=('SeadmeteGarantii' 'Zad2Kolab' 'SPARKLogistics' 'BulkBuyer' 'IncidentManagement' 'Pizza' 'Procurement' 'OrderToCashV1' 'Certification' 'Circee' 'LCA' 'SecuRoutiere' 'CandidatureProcessing')
-scenario_names=('SPARKLogistics')
+scenario_names=('ScanConsortium' )
 
 #suffixes=('DF' 'Mono')
 suffixes=('DF')

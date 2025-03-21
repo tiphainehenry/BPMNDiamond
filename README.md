@@ -12,7 +12,9 @@ To run the experiments, follow these steps:
    ```
    cd hardhat/
    npm install 
-   sh launchExperiments.sh
+
+   sh launchExperiments_independent_deploy.sh ## experiment 1: independent model deployment (includes updates scenario)
+   sh launchExperiments_sequential_deploy.sh ## experiment 2: successive model / instance deployment
    ```
 
 Available test scripts are defined in test/bpmnScenarios.  

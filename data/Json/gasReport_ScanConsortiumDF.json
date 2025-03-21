@@ -783,32 +783,10 @@
     "contract": "ExecLogicFacet",
     "method": "Invoke",
     "fnSig": "Invoke(uint256,string,uint256,string,string,string)",
-    "intrinsicGas": [
-     22924,
-     22924,
-     22924,
-     22924,
-     22924
-    ],
-    "callData": [
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "gasData": [
-     157560,
-     231947,
-     241272,
-     434013,
-     447879
-    ],
-    "numberOfCalls": 5,
-    "executionGasAverage": 302534,
-    "calldataGasAverage": 0,
-    "min": 157560,
-    "max": 447879
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
    },
    "ExecLogicFacet_370b721e": {
     "key": "370b721e",
@@ -1202,19 +1180,19 @@
     "method": "addModel",
     "fnSig": "addModel(string,(uint256,uint8,string,string,string,string,string,string)[],string[][],string[][],string[][],string[][],string[],string[][])",
     "intrinsicGas": [
-     157896
+     524660
     ],
     "callData": [
      0
     ],
     "gasData": [
-     5387558
+     21489192
     ],
     "numberOfCalls": 1,
-    "executionGasAverage": 5387558,
+    "executionGasAverage": 21489192,
     "calldataGasAverage": 0,
-    "min": 5387558,
-    "max": 5387558
+    "min": 21489192,
+    "max": 21489192
    },
    "ModelFactoryFacet_cc31dd4f": {
     "key": "cc31dd4f",
@@ -1223,22 +1201,22 @@
     "method": "newInstance",
     "fnSig": "newInstance(string)",
     "intrinsicGas": [
-     21580,
-     21580
+     21640,
+     21640
     ],
     "callData": [
      0,
      0
     ],
     "gasData": [
-     1004730,
-     1004730
+     1434984,
+     1434984
     ],
     "numberOfCalls": 2,
-    "executionGasAverage": 1004730,
+    "executionGasAverage": 1434984,
     "calldataGasAverage": 0,
-    "min": 1004730,
-    "max": 1004730
+    "min": 1434984,
+    "max": 1434984
    },
    "ModelFactoryFacet_cc2f5ba1": {
     "key": "cc2f5ba1",
@@ -1247,12 +1225,12 @@
     "method": "updateModel",
     "fnSig": "updateModel(string,string,uint256,(uint256,uint8,string,string,string,string,string,string)[],string[][],string[][],string[][],string[][])",
     "intrinsicGas": [
-     31092,
-     31092,
-     31164,
-     31164,
-     23588,
-     23588
+     31152,
+     31152,
+     31224,
+     31224,
+     23648,
+     23648
     ],
     "callData": [
      0,
@@ -1263,18 +1241,18 @@
      0
     ],
     "gasData": [
-     38928,
-     38928,
-     281091,
-     281091,
-     398564,
-     398564
+     38988,
+     38988,
+     268300,
+     268300,
+     398624,
+     398624
     ],
     "numberOfCalls": 6,
-    "executionGasAverage": 239528,
+    "executionGasAverage": 235304,
     "calldataGasAverage": 0,
-    "min": 38928,
-    "max": 398564
+    "min": 38988,
+    "max": 398624
    },
    "ModelFactoryFacetV2_8d30bf3c": {
     "key": "8d30bf3c",

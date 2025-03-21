@@ -784,13 +784,49 @@
     "method": "Invoke",
     "fnSig": "Invoke(uint256,string,uint256,string,string,string)",
     "intrinsicGas": [
-     22924,
-     22924,
-     22924,
-     22924,
-     22924
+     23008,
+     22816,
+     22960,
+     22816,
+     23056,
+     22996,
+     22960,
+     23056,
+     22816,
+     23008,
+     22816,
+     22816,
+     22816,
+     22816,
+     22960,
+     23056,
+     22816,
+     23056,
+     23056,
+     22816,
+     23056,
+     23056,
+     22816
     ],
     "callData": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
      0,
      0,
      0,
@@ -798,17 +834,35 @@
      0
     ],
     "gasData": [
-     157560,
-     231947,
-     241272,
-     434013,
-     447879
+     46295,
+     90232,
+     173853,
+     185134,
+     334764,
+     343335,
+     349487,
+     355257,
+     355257,
+     366090,
+     367402,
+     369678,
+     373285,
+     375333,
+     376322,
+     382688,
+     387738,
+     398109,
+     409058,
+     545338,
+     568428,
+     570593,
+     573153
     ],
-    "numberOfCalls": 5,
-    "executionGasAverage": 302534,
+    "numberOfCalls": 23,
+    "executionGasAverage": 360732,
     "calldataGasAverage": 0,
-    "min": 157560,
-    "max": 447879
+    "min": 46295,
+    "max": 573153
    },
    "ExecLogicFacet_370b721e": {
     "key": "370b721e",
@@ -1202,19 +1256,19 @@
     "method": "addModel",
     "fnSig": "addModel(string,(uint256,uint8,string,string,string,string,string,string)[],string[][],string[][],string[][],string[][],string[],string[][])",
     "intrinsicGas": [
-     157896
+     239220
     ],
     "callData": [
      0
     ],
     "gasData": [
-     5387558
+     9480847
     ],
     "numberOfCalls": 1,
-    "executionGasAverage": 5387558,
+    "executionGasAverage": 9480847,
     "calldataGasAverage": 0,
-    "min": 5387558,
-    "max": 5387558
+    "min": 9480847,
+    "max": 9480847
    },
    "ModelFactoryFacet_cc31dd4f": {
     "key": "cc31dd4f",
@@ -1223,22 +1277,22 @@
     "method": "newInstance",
     "fnSig": "newInstance(string)",
     "intrinsicGas": [
-     21580,
-     21580
+     21544,
+     21544
     ],
     "callData": [
      0,
      0
     ],
     "gasData": [
-     1004730,
-     1004730
+     731598,
+     731598
     ],
     "numberOfCalls": 2,
-    "executionGasAverage": 1004730,
+    "executionGasAverage": 731598,
     "calldataGasAverage": 0,
-    "min": 1004730,
-    "max": 1004730
+    "min": 731598,
+    "max": 731598
    },
    "ModelFactoryFacet_cc2f5ba1": {
     "key": "cc2f5ba1",
@@ -1247,12 +1301,12 @@
     "method": "updateModel",
     "fnSig": "updateModel(string,string,uint256,(uint256,uint8,string,string,string,string,string,string)[],string[][],string[][],string[][],string[][])",
     "intrinsicGas": [
-     31092,
-     31092,
-     31164,
-     31164,
-     23588,
-     23588
+     31056,
+     31056,
+     31128,
+     31128,
+     23552,
+     23552
     ],
     "callData": [
      0,
@@ -1263,18 +1317,18 @@
      0
     ],
     "gasData": [
-     38928,
-     38928,
-     281091,
-     281091,
-     398564,
-     398564
+     38892,
+     38892,
+     284655,
+     284655,
+     398528,
+     398528
     ],
     "numberOfCalls": 6,
-    "executionGasAverage": 239528,
+    "executionGasAverage": 240692,
     "calldataGasAverage": 0,
-    "min": 38928,
-    "max": 398564
+    "min": 38892,
+    "max": 398528
    },
    "ModelFactoryFacetV2_8d30bf3c": {
     "key": "8d30bf3c",
